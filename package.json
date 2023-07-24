@@ -1,0 +1,14 @@
+{
+  "name": "mathcalculater",
+  "version": "1.1.0",
+  "description": "this is math calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Alok Tiwari",
+  "license": "ISC"
+}
